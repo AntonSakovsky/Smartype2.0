@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(
 );
 
 root.render(
-    <BrowserRouter basename="/smartype-ex">
+    <BrowserRouter basename="/smartype2.0">
         <Provider store={store}>
             <App />
         </Provider>
